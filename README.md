@@ -15,3 +15,7 @@ A relatively simple mod for the game Risk of Rain 2.
 - **mmspawnas** *{body} {player(optional)}* (changes the player's character body)
 - **mmequip** *{name/id} {player(optional)}* (gives equipment to a player)
 - **mmequiplist** (lists available equipment in the game)
+
+# TODO
+- update **mmspawnlist** to contain new enemies and characters from the 1.0 update
+- convert **mmspawnlist** into a function that lists all loaded bodies instead; should allow modded characters as well
